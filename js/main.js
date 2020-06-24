@@ -1,4 +1,5 @@
-var tlFirstSroll = new TimelineMax()
+var tlFirstScroll = new TimelineMax();
 
-tlFirstSroll
-.set('.iphone-image-wrapper'),{scale: 4}
+tlFirstScroll
+.set('.iphone-image-wrapper', {scale: 4, transformOrgin:"center top", y:"100%"})
+.to()
