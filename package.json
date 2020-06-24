@@ -1,7 +1,7 @@
 {
-  "name": "le-caffeine",
+  "name": "tutorial_based",
   "version": "1.0.0",
-  "description": "This Website is for a Cafe cum Restaurant.",
+  "description": "GSAP and ScrollMagic tutorial based webpage.",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
